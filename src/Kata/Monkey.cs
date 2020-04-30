@@ -15,6 +15,7 @@ namespace Kata
         public void Eat(string food)
         {
             Belly.Add(food);
+            
         }
     }
 }
